@@ -1,2 +1,2 @@
-# repo-github-gekkbrains
+# repo-github-geekbrains
 Intro to repositories
